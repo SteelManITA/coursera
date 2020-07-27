@@ -1,0 +1,15 @@
+body {
+    padding-top: 70px;
+}
+
+.nav.navbar-nav > li > a{
+    padding: 4px 0;
+}
+
+.nav.navbar-nav > li:not(:last-child){
+    border-bottom: 1px solid black;
+}
+
+#chicken, #beef, #sushi {
+    margin-top: 16px;
+}
